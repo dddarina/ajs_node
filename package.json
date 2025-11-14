@@ -1,0 +1,23 @@
+{
+  "name": "ajs_node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dddarina/ajs_node#readme",
+  "bugs": {
+    "url": "https://github.com/dddarina/ajs_node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dddarina/ajs_node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@dddarina/ajs": "^1.0.1"
+  }
+}
